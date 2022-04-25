@@ -1,0 +1,33 @@
+.list_container{
+    display: flex;
+    
+    height: 800px;
+    
+    border: 2px solid blue;
+    margin: auto;
+    margin-top: 5px;
+
+    gap: 5px;
+}
+
+
+
+.employee_card{
+    border: 2px solid red; 
+   
+    height: 400px;
+    width:300px;
+    background-color: grey;
+    
+}
+
+.employee_image{
+    height: 150px;
+    width: 100px;
+    border:  2px solid blue;
+}
+
+.employee_name{
+    margin-top: 10px;
+    height: 20px;
+}

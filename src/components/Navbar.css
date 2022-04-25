@@ -1,0 +1,7 @@
+.navbar{
+    display: flex;
+    gap:100px;
+    background-color: antiquewhite;
+    height: 50px;
+    text-align: center;
+}
